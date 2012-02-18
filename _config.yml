@@ -1,0 +1,4 @@
+url: http://www.amivono.com
+permalink: /:categories/:title
+markdown: rdiscount
+pygments: true
