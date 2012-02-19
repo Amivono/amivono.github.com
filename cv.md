@@ -13,6 +13,7 @@ daniel.lindh@amivono.com
 http://www.amivono.com
 </pre>
 <p><img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg"></p>
+<div style="clear:both"/>
 
 # Sammanfattning
 
