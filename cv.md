@@ -3,16 +3,16 @@ layout: post
 title: CV
 ---
 
-<img style="float:left" src="/images/martin-palmer.jpg" />
-<img style="float:right" src="/images/daniel-lindh.jpg" />
-
-    Amivono AB
-    Daniel Lindh & Martin Palmer
-    Styrbjörnsvägen 29
-    126 51 HÄGERSTEN
-    073-626 54 49
-    daniel.lindh@amivono.com
-    http://www.amivono.com
+<p><img style="float:left" width="150" src="./CV_files/martin-palmer.jpg"></p>
+<pre style="float:left;text-align:center;">Amivono AB
+Martin Palmer &amp; Daniel Lindh
+Styrbjörnsvägen 29
+126 51 HÄGERSTEN
+073-626 54 49
+daniel.lindh@amivono.com
+http://www.amivono.com
+</pre>
+<p><img style="float:left;padding:0px" width="150" src="./CV_files/daniel-lindh.jpg"></p>
 
 # Sammanfattning
 
