@@ -19,11 +19,18 @@ http://www.amivono.com</pre>
 
 # Sammanfattning
 
-Vi är två konsulter med lång erfarenhet av att utveckla och drifta stora komplex it-system. Vi har varit ansvariga för alla delar i processen så som affärsplan, kravspecifikation, arkitektur, databasmodell, prototyp, programmering, unit-test, integrations-test, server-drift, 24/7 jour, SLA, support, säljstöd, nyanställningar etc.
+Vi är två konsulter med 16års erfarenhet av att utveckla och drifta stora komplexa it-system. Vi har varit ansvariga för alla delar i processen så som affärsplan, projektledning, kravspecifikation, arkitektur, databasmodell, prototyp, programmering, unit-test, integrations-test, server-drift, 24/7 jour, SLA, support, säljstöd, nyanställningar etc.
 
 Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Vilket har visat sig vara mycket effektivt och underlättat för oss att skapa kvalitativa och innovativa system.
 
 Exempel: Vid arkitektur har det varit användbart att kunna bolla ideér. Hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kod granskats av båda för att säkerställa högsta möjliga kodkvalite.
+
+# Roller
+
+Systemutvecklare
+Systemarkitekt
+Driftansvarig
+Databasadministratör
 
 # Kompetens/Erfarenheter
 
@@ -31,16 +38,22 @@ Exempel: Vid arkitektur har det varit användbart att kunna bolla ideér. Hitta 
 
 Lösningsbenägna, Noggranna, Kreativa, Ansvarstagande, Självgående, Flexibla, Initiativrika, Strukturerade, Målinriktade
 
-## Process
+## Processer
+
+Parprogrammering, Extreme Programming, Scrum.
 
 Vanligtvis arbetar vi enligt nedanstående förenklade process.
 
 * Vi träffas och går igenom problemställningen och disskuterar ett antal olika lösningar.
 * Amivono säkerställer kravspecifikation och projektplan utifrån den beskrivna problemställningen.
 * Vi träffas igen och fastställer projektplanen.
-* Varje feature i projektplanen som avklars kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
-* En gång i veckan rappoterar Amivono tillbaka till kund om frammsteg. Arbetet kan hela tiden följas i versionshanterings- och issue- system.
+* Varje feature i projektplanen som avklaras kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
+* En gång i veckan rappoterar Amivono tillbaka till kund om frammsteg. Arbetet kan hela tiden följas i versionshanteringssystem och issuesystem.
 * När projektet avslutats överlämnar Amivono dokumentation av projektet.
+
+## Projektfaser
+
+Förstudie, Projektering, Systemering/Design/Krav, Implementation, Test, Införande och överlämning, Drift
 
 ## Systemutveckling
 
@@ -56,7 +69,7 @@ Exempel: Farepayments produktionsmiljö är certifierad för PCI-DSS vilket stä
 
 ## Datalagring
 
-mysql, ms sql server, bdb, oracle.
+Databasadministration, Datamodellering, Prestandaoptimering, Datalager, mysql, ms sql server, bdb, oracle,
 
 Exempel: På Fareoffice har vi två stycken geografiskt skillda datacenters med mysql master-master replikring imellan. Databasen är flitigt optimerad t.ex. har vi med hjälp av explain modelerat querys, index och tabeller för att ge bästa prestanda. Vi har även utvecklat ett par UDF moduler i c++ för att optimera ett par krävande beräkningar.
 
@@ -70,6 +83,9 @@ Språk: Engelska, obehindrat i både tal och skrift
 
 * Starta av oss.
 * Fareoffice utvecklar och driftar ett webbaserat hyrbilssystem för stora hyrbilsleverantörer. T.ex. Alamos websidor i Europa.
+* Systemet är skrivet i PHP och Java med delar i Python och C++.
+* Data är sparat i en mysql databas bestående av 15GB+ data och omkring 200 tabeller.
+* Tillsammans med Farepayment driftas hela systemet på ca 30 virutella/fysiska servrar.
 
 ### 2002-01-01 -- 2012-01-01, Farepayment AB
 
