@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-<p><img style="float:left" width="150" src="/images/martin-palmer.jpg"></p>
+<img style="float:left" width="150" src="/images/martin-palmer.jpg">
 <pre style="float:left;text-align:center;">Amivono AB
 Martin Palmer &amp; Daniel Lindh
 Styrbjörnsvägen 29
@@ -12,7 +12,7 @@ Styrbjörnsvägen 29
 daniel.lindh@amivono.com
 http://www.amivono.com
 </pre>
-<p><img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg"></p>
+<img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg">
 <div style="clear:both"></div>
 
 # Sammanfattning
