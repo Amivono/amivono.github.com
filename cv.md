@@ -23,13 +23,13 @@ Vi är två konsulter med lång erfarenhet av att utveckla och drifta stora komp
 
 Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Vilket har visat sig vara mycket effektivt och underlättat för oss att skapa kvalitativa och innovativa system.
 
-Exempel: Vid arkitektur har det varit användbart att kunna bolla ideér. Hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kodgranskats av båda för att säkerställa högsta möjliga kodkvalite.
-
-# Egenskaper som representerar oss
-
-Lösningsbenägna, Noggranna, Kreativa, Ansvarstagande, Självgående, Flexibla, Initiativrika, Strukturerade, Målinriktade
+Exempel: Vid arkitektur har det varit användbart att kunna bolla ideér. Hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kod granskats av båda för att säkerställa högsta möjliga kodkvalite.
 
 # Kompetens/Erfarenheter
+
+### Egenskaper som representerar oss
+
+Lösningsbenägna, Noggranna, Kreativa, Ansvarstagande, Självgående, Flexibla, Initiativrika, Strukturerade, Målinriktade
 
 ## Process
 
@@ -46,19 +46,19 @@ Vanligtvis arbetar vi enligt nedanstående förenklade process.
 
 Python, C#, .NET, PHP, HTML/CSS, unit testing, integrations testning, AJAX, bash.
 
-Exempel: Vi arbetar just nu på ett distribuerat filsystem skrivet i Python. Ta gärna titt på vår kod http://www.github.com/oan/oand.
+Exempel: Vi arbetar just nu på ett distribuerat filsystem skrivet i Python. Ta gärna titt på vår kod [http://www.github.com/oan/oand](http://www.github.com/oan/oand).
 
 ## Systemoperations
 
 Linux, osx, windows, centos, redhat, ubuntu, httpd, modsecurity, iptables, nagios, munin, ossec, snort, openldap, openvpn, ssh, glassfish, KVM, XEN, vmware, virtualbox, samba.
 
-Exempel: Farepayments produktionsmiljö är certifierad för PCI-DSS vilket ställer höga krav på säkerhet. Med hjälp av ovan programvaror har vi säkrat upp miljön. Större delen av installationen är scriptad i python, för att säkerställa att rätt komponenter är installerad på rätt server. Detta har minskat antalet "mänskilga fel" vid installationen.
+Exempel: Farepayments produktionsmiljö är certifierad för PCI-DSS vilket ställer höga krav på säkerhet. Med hjälp av ovan programvaror har vi säkrat upp miljön. Större delen av installationen är scriptad i python, för att säkerställa att rätt komponenter är installerad på rätt server. Detta har minskat antalet "mänskilga fel" vid installationen. Delar av vår installations programvara hittas här [github.com/systemconsole/syco/](github.com/systemconsole/syco/).
 
 ## Datalagring
 
 mysql, ms sql server, bdb, oracle.
 
-Exempel: På Fareoffice har vi två stycken geografiskt skillda datacenters med mysql master-master replikring imellan. Databasen är flitigt optimerad t.ex. har vi med hjälp av explain modelerat querys, index och tabeller för att ge bästa prestanda.
+Exempel: På Fareoffice har vi två stycken geografiskt skillda datacenters med mysql master-master replikring imellan. Databasen är flitigt optimerad t.ex. har vi med hjälp av explain modelerat querys, index och tabeller för att ge bästa prestanda. Vi har även utvecklat ett par UDF moduler i c++ för att optimera ett par krävande beräkningar.
 
 ## Övrigt
 
@@ -68,7 +68,7 @@ Språk: Engelska, obehindrat i både tal och skrift
 
 ### 2001-01-01 -- 2012-01-01, Fareoffice Car Rental Solutions AB
 
-* Bildat av oss. Vi har varit verksamma fram till nyligen. Idag har vi endast en ägande roll i bolaget.
+* Starta av oss.
 * Fareoffice utvecklar och driftar ett webbaserat hyrbilssystem för stora hyrbilsleverantörer. T.ex. Alamos websidor i Europa.
 
 ### 2002-01-01 -- 2012-01-01, Farepayment AB
@@ -78,8 +78,9 @@ Språk: Engelska, obehindrat i både tal och skrift
 
 ### 2008-05-01 - 2011-10-31, Knowledge Strategy AB
 
-* Tillverkar en egenutvecklad databas som konsoliderar 1000tals andra databaser och stora datamängder (terabytes).
+* Tillverkar en egenutvecklad databas som konsoliderar 1000tals andra databaser med stora datamängder (terabytes).
 * Ovanpå databasen finns en C# applikation som hanterar svarsresultat på miljoner rader, analyserar, filtrerar och ritar ut grafer.
 
 # Övrigt
+
 * Har B-körkort och egen bil
