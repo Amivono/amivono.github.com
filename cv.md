@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-<p><img style="float:left" width="150" src="./CV_files/martin-palmer.jpg"></p>
+<p><img style="float:left" width="150" src="/images/martin-palmer.jpg"></p>
 <pre style="float:left;text-align:center;">Amivono AB
 Martin Palmer &amp; Daniel Lindh
 Styrbjörnsvägen 29
@@ -12,7 +12,7 @@ Styrbjörnsvägen 29
 daniel.lindh@amivono.com
 http://www.amivono.com
 </pre>
-<p><img style="float:left;padding:0px" width="150" src="./CV_files/daniel-lindh.jpg"></p>
+<p><img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg"></p>
 
 # Sammanfattning
 
@@ -63,15 +63,18 @@ Språk: Engelska, obehindrat i både tal och skrift
 
 # Erfarenheter
 
-2001-01-01 -- 2012-01-01, Fareoffice Car Rental Solutions AB
+## 2001-01-01 -- 2012-01-01, Fareoffice Car Rental Solutions AB
+
 * Bildat av oss. Vi har varit verksamma fram till nyligen. Idag har vi endast en ägande roll i bolaget.
 * Fareoffice utvecklar och driftar ett webbaserat hyrbilssystem för stora hyrbilsleverantörer. T.ex. Alamos websidor i Europa.
 
-2002-01-01 -- 2012-01-01, Farepayment AB
+## 2002-01-01 -- 2012-01-01, Farepayment AB
+
 * Dotterbolag till Fareoffice CRS.
 * Farepayment tillverkar ett PCI-certifierat betalningssystem, främst inriktat mot resebranchen. Flera 100 miljoner kronor transageras varje år i detta system.
 
-2008-05-01 - 2011-10-31, Knowledge Strategy AB
+## 2008-05-01 - 2011-10-31, Knowledge Strategy AB
+
 * Tillverkar en egenutvecklad databas som konsoliderar 1000tals andra databaser och stora datamängder (terabytes).
 * Ovanpå databasen finns en C# applikation som hanterar svarsresultat på miljoner rader, analyserar, filtrerar och ritar ut grafer.
 
