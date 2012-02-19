@@ -5,15 +5,14 @@ title: CV
 
 <div>
     <img style="float:left;padding:0px" width="150" src="/images/martin-palmer.jpg">
-    <pre style="float:left;text-align:center;">
+    <pre style="float:left;text-align:center;padding-bottom:10px">
 Amivono AB
 Martin Palmer &amp; Daniel Lindh
 Styrbjörnsvägen 29
 126 51 HÄGERSTEN
 073-626 54 49
 daniel.lindh@amivono.com
-http://www.amivono.com
-    </pre>
+http://www.amivono.com</pre>
     <img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg">
 </div>
 <div style="clear:both"></div>
