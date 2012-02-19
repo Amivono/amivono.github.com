@@ -26,6 +26,7 @@ Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Vilk
 Exempel: Vid arkitektur har det varit användbart att kunna bolla ideér. Hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kod granskats av båda för att säkerställa högsta möjliga kodkvalite.
 
 ## Roller
+
 * Systemutvecklare
 * Systemarkitekt
 * Driftansvarig
