@@ -31,7 +31,8 @@ _Systemutvecklare, systemarkitekt, databasarkitekt_ och _systemoperatör_ är n�
 
 ## Egenskaper som representerar oss
 
-Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt letar vi lösningar på olika håll i kod som i verkligheten.
+Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt letar vi efter både tekniklösningar och användarlösningar.
+
 
 # Kompetens/Erfarenheter
 
