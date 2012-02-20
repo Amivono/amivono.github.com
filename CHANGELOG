@@ -2,12 +2,12 @@ TODO
 ====
 * Extend cv, get inspiration from
   http://www.kvadrat.se/konsult.aspx
-* Add Analytics
 * Registrera oss hos
-    * https://www.experis.se/sv/jobb-och-karriar/Karriarmojligheter/Bli-var-underkonsult/
+    * http://www.experis.se/sv/jobb-och-karriar/Karriarmojligheter/Bli-var-underkonsult/
     * http://www.eworks.se/
     * http://www.kvadrat.se/underkonsult.aspx
 
 CHANGELOG
 =========
-# 2012-02-18 - Arlukin - Setup layout for the webpage http://www.amivono.com
+# 2012-02-18 - danlin - Add Analytics
+# 2012-02-18 - danlin - Setup layout for the webpage http://www.amivono.com
