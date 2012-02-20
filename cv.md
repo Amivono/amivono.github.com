@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Curriculum Vitae - System utvecklar konsulter
 ---
 
 <div>
