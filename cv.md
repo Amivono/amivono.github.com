@@ -19,7 +19,7 @@ http://www.amivono.com</pre>
 
 # Sammanfattning
 
-Vi är två konsulter med 16 års erfarenhet av att utveckla och drifta stora komplexa it-system. Vi har varit ansvariga för alla delar i processen så som affärsplan, projektledning, kravspecifikation, arkitektur, databasmodell, prototyp, programmering, unit-test, integrations-test, server-drift, 24/7 jour, SLA, support, säljstöd, anställningar etc.
+Vi är två konsulter med 16 års erfarenhet av att utveckla och drifta stora komplexa IT-system. Vi har varit ansvariga för alla delar i processen så som affärsplan, projektledning, kravspecifikation, arkitektur, databasmodell, prototyp, programmering, unit-test, integrations-test, server-drift, 24/7 jour, SLA, support, säljstöd, anställningar etc.
 
 Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Detta har visat sig vara mycket effektivt och underlättat för oss att skapa kvalitativa och innovativa system.
 
@@ -27,14 +27,11 @@ Exempel: Vid arkitektur har det varit användbart att kunna bolla idéer, hitta 
 
 ## Roller
 
-* Systemutvecklare
-* Systemarkitekt
-* Driftansvarig
-* Databasadministratör
+_Systemutvecklare, systemarkitekt, databasarkitekt_ och _systemoperatör_ är några av de roller vi gärna tar på oss.
 
 ## Egenskaper som representerar oss
 
-Lösningsbenägna, Noggranna, Kreativa, Ansvarstagande, Självgående, Flexibla, Initiativrika, Strukturerade, Målinriktade
+Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt letar vi lösningar på olika håll i kod som i verkligheten.
 
 # Kompetens/Erfarenheter
 
@@ -44,16 +41,13 @@ Parprogrammering, Extreme Programming, Scrum.
 
 Vanligtvis arbetar vi enligt nedanstående förenklade process.
 
-* Vi träffas och går igenom problemställningen och diskuterar ett antal olika lösningar.
-* Amivono säkerställer kravspecifikation och projektplan utifrån den beskrivna problemställningen.
-* Vi träffas igen och fastställer projektplanen.
-* Varje feature i projektplanen som avklaras kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
-* En gång i veckan rapporterar Amivono tillbaka till kund om framsteg. Arbetet kan hela tiden följas i versionshanteringssystem och issuesystem.
-* När projektet avslutats överlämnar Amivono dokumentation av projektet.
-
-## Projektfaser
-
-Förstudie, Projektering, Systemering/Design/Krav, Implementation, Test, Införande och överlämning, Drift
+* _Förstudie_ - Vi träffas och går igenom problemställningen och diskuterar ett antal olika lösningar.
+* _Kravställning_ - Amivono säkerställer kravspecifikation och projektplan utifrån den beskrivna problemställningen.
+* _Projektering_ - Vi träffas igen och fastställer projektplanen.
+* _Implementering_ - Varje feature i projektplanen som avklaras kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
+* _Återkoppling_ - En gång i veckan rapporterar Amivono tillbaka till kund om framsteg. Arbetet kan hela tiden följas i versionshanteringssystem och issuesystem.
+* _Överlämning_ - När projektet avslutats överlämnar Amivono dokumentation av projektet.
+* _Drift_ - Om så önskas kan vi drifta projektet på av kund vald plattform.
 
 ## Systemutveckling
 
@@ -81,7 +75,7 @@ Språk: Engelska, obehindrat i både tal och skrift
 
 ### 2001-01-01 -- 2012-01-01, Fareoffice Car Rental Solutions AB
 
-* Starta av oss.
+* Vi är 2 av 4 grundare.
 * Fareoffice utvecklar och driftar ett webbaserat hyrbilssystem för stora hyrbilsleverantörer. T.ex. Alamos websidor i Europa.
 * Systemet är skrivet i PHP och Java med delar i Python och C++.
 * Data är sparat i en mysql databas bestående av 15GB+ data och omkring 200 tabeller.
