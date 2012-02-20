@@ -4,7 +4,7 @@ title: Curriculum Vitae - System utvecklar konsulter
 ---
 
 <div>
-    <img style="float:left;padding:0px" width="150" src="/images/martin-palmer.jpg">
+    <img style="float:left;padding:0px" width="150" src="/images/martin-palmer.png">
     <pre style="float:left;text-align:center;padding-bottom:10px">
 Amivono AB
 Martin Palmer &amp; Daniel Lindh
