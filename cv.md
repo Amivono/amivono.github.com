@@ -12,7 +12,7 @@ Styrbjörnsvägen 29
 126 51 HÄGERSTEN
 073-626 54 49
 sales@amivono.com
-http://www.amivono.com</pre>
+http://www.amivono.com/cv</pre>
     <img style="float:left;padding:0px" width="150" src="/images/daniel-lindh.jpg">
 </div>
 <div style="clear:both"></div>
@@ -31,7 +31,7 @@ _Systemutvecklare, systemarkitekt, databasarkitekt_ och _systemoperatör_ är n�
 
 ## Egenskaper som representerar oss
 
-Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt löser vi komplexa problem med t.ex. förändrad systemarkitektur, systemdesign, algorithmer och användarprocesser.
+Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt löser vi komplexa problem med t.ex. förändrad systemarkitektur, systemdesign, smarta algoritmer och användarprocesser.
 
 # Kompetens/Erfarenheter
 
