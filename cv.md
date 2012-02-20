@@ -33,7 +33,6 @@ _Systemutvecklare, systemarkitekt, databasarkitekt_ och _systemoperatör_ är n�
 
 Tillsammans bildar vi ett _självgående_ team som _noggrant_ och _strukturerat_ letar efter den _effektivaste lösningen_ på givet problem. Efter flera år i ledande position har vi utvecklat en utmärkt _initiativförmåga_, och står sällan handfallna innför något problem. På ett _flexibelt_ sätt letar vi efter både tekniklösningar och användarlösningar.
 
-
 # Kompetens/Erfarenheter
 
 ## Processer
@@ -45,7 +44,7 @@ Vanligtvis arbetar vi enligt nedanstående förenklade process.
 * _Förstudie_ - Vi träffas och går igenom problemställningen och diskuterar ett antal olika lösningar.
 * _Kravställning_ - Amivono säkerställer kravspecifikation och projektplan utifrån den beskrivna problemställningen.
 * _Projektering_ - Vi träffas igen och fastställer projektplanen.
-* _Implementering_ - Varje feature i projektplanen som avklaras kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
+* _Implementering_ - Varje implementerad feature kodgranskas, unit-testas och dokumenteras innan vi går vidare i projektplanen.
 * _Återkoppling_ - En gång i veckan rapporterar Amivono tillbaka till kund om framsteg. Arbetet kan hela tiden följas i versionshanteringssystem och issuesystem.
 * _Överlämning_ - När projektet avslutats överlämnar Amivono dokumentation av projektet.
 * _Drift_ - Om så önskas kan vi drifta projektet på av kund vald plattform.
