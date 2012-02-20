@@ -21,9 +21,9 @@ http://www.amivono.com</pre>
 
 Vi är två konsulter med 16 års erfarenhet av att utveckla och drifta stora komplexa it-system. Vi har varit ansvariga för alla delar i processen så som affärsplan, projektledning, kravspecifikation, arkitektur, databasmodell, prototyp, programmering, unit-test, integrations-test, server-drift, 24/7 jour, SLA, support, säljstöd, anställningar etc.
 
-Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Vilket har visat sig vara mycket effektivt och underlättat för oss att skapa kvalitativa och innovativa system.
+Vi har under större delen av vårt yrkesverksamma liv arbetat tillsammans. Detta har visat sig vara mycket effektivt och underlättat för oss att skapa kvalitativa och innovativa system.
 
-Exempel: Vid arkitektur har det varit användbart att kunna bolla idéer. Hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kod granskats av båda för att säkerställa högsta möjliga kodkvalite.
+Exempel: Vid arkitektur har det varit användbart att kunna bolla idéer, hitta brister i den andras modell eller fördelar som kan förädlas ännu mera. I våra gemensamma projekt har all kod granskats av båda för att säkerställa högsta möjliga kodkvalite.
 
 ## Roller
 
